@@ -129,7 +129,7 @@
 						<enabled>true</enabled>
 						<updatePolicy>never</updatePolicy>
 					</releases>
-				</pluginRepository>
+				</pluginRepository> -->
 			<!--
 				<pluginRepository>
 					<id>local.repo</id>
